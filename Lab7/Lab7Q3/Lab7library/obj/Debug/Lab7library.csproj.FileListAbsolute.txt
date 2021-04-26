@@ -1,0 +1,6 @@
+D:\.Net\Lab7\Lab7Q3\Lab7library\bin\Debug\Lab7library.dll
+D:\.Net\Lab7\Lab7Q3\Lab7library\bin\Debug\Lab7library.pdb
+D:\.Net\Lab7\Lab7Q3\Lab7library\obj\Debug\Lab7library.csproj.CoreCompileInputs.cache
+D:\.Net\Lab7\Lab7Q3\Lab7library\obj\Debug\Lab7library.dll
+D:\.Net\Lab7\Lab7Q3\Lab7library\obj\Debug\Lab7library.pdb
+D:\.Net\Lab7\Lab7Q3\Lab7library\obj\Debug\Lab7library.csprojAssemblyReference.cache

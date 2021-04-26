@@ -1,0 +1,4 @@
+D:\.Net\Lab7\Lab7Q3\Employee\obj\Debug\Lab7Dll.csprojAssemblyReference.cache
+D:\.Net\Lab7\Lab7Q3\Employee\obj\Debug\Lab7Dll.csproj.CoreCompileInputs.cache
+D:\.Net\Lab7\Lab7Q3\Employee\obj\Debug\Employee.dll
+D:\.Net\Lab7\Lab7Q3\Employee\obj\Debug\Employee.pdb

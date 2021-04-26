@@ -1,0 +1,10 @@
+D:\.Net\Lab7\Lab7\Lab7\bin\Debug\Lab7.exe.config
+D:\.Net\Lab7\Lab7\Lab7\bin\Debug\Lab7.exe
+D:\.Net\Lab7\Lab7\Lab7\bin\Debug\Lab7.pdb
+D:\.Net\Lab7\Lab7\Lab7\bin\Debug\Lab7Task1and2.dll
+D:\.Net\Lab7\Lab7\Lab7\bin\Debug\Lab7Task1and2.pdb
+D:\.Net\Lab7\Lab7\Lab7\obj\Debug\Lab7.csprojAssemblyReference.cache
+D:\.Net\Lab7\Lab7\Lab7\obj\Debug\Lab7.csproj.CoreCompileInputs.cache
+D:\.Net\Lab7\Lab7\Lab7\obj\Debug\Lab7.csproj.CopyComplete
+D:\.Net\Lab7\Lab7\Lab7\obj\Debug\Lab7.exe
+D:\.Net\Lab7\Lab7\Lab7\obj\Debug\Lab7.pdb

@@ -1,0 +1,7 @@
+D:\.Net\Lab8Q2\Lab8Q2\bin\Debug\Lab8Q2.exe.config
+D:\.Net\Lab8Q2\Lab8Q2\bin\Debug\Lab8Q2.exe
+D:\.Net\Lab8Q2\Lab8Q2\bin\Debug\Lab8Q2.pdb
+D:\.Net\Lab8Q2\Lab8Q2\obj\Debug\Lab8Q2.csprojAssemblyReference.cache
+D:\.Net\Lab8Q2\Lab8Q2\obj\Debug\Lab8Q2.csproj.CoreCompileInputs.cache
+D:\.Net\Lab8Q2\Lab8Q2\obj\Debug\Lab8Q2.exe
+D:\.Net\Lab8Q2\Lab8Q2\obj\Debug\Lab8Q2.pdb

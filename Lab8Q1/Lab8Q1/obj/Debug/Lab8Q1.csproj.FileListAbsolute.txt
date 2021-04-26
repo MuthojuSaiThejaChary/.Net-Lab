@@ -1,0 +1,10 @@
+D:\.Net\Lab8Q1\Lab8Q1\bin\Debug\Lab8Q1.exe.config
+D:\.Net\Lab8Q1\Lab8Q1\bin\Debug\Lab8Q1.exe
+D:\.Net\Lab8Q1\Lab8Q1\bin\Debug\Lab8Q1.pdb
+D:\.Net\Lab8Q1\Lab8Q1\obj\Debug\Lab8Q1.csprojAssemblyReference.cache
+D:\.Net\Lab8Q1\Lab8Q1\obj\Debug\Lab8Q1.csproj.CoreCompileInputs.cache
+D:\.Net\Lab8Q1\Lab8Q1\obj\Debug\Lab8Q1.exe
+D:\.Net\Lab8Q1\Lab8Q1\obj\Debug\Lab8Q1.pdb
+D:\.Net\Lab8Q1\Lab8Q1\bin\Debug\Lab8Q1Library.dll
+D:\.Net\Lab8Q1\Lab8Q1\bin\Debug\Lab8Q1Library.pdb
+D:\.Net\Lab8Q1\Lab8Q1\obj\Debug\Lab8Q1.csproj.CopyComplete

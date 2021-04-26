@@ -1,0 +1,36 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Project
+{
+    class ICICI:BankAccount
+    {
+        public override double GetBalance()
+        {
+            return balance;
+        }
+        public override bool Withdraw(double amount)
+        {
+            double balance = GetBalance();
+            if(balance-amount >0)
+            {
+                Console.WriteLine("Withdrawing");
+            }
+
+            return true;
+        }
+        public override bool Transfer(IBankAccount bankAccount, double amount)
+        {
+            double balance = GetBalance();
+            if(balance-amount>=5000)
+            {
+                Console.WriteLine("Transfer Possible");
+            }
+            return true;
+        }
+
+    }
+}

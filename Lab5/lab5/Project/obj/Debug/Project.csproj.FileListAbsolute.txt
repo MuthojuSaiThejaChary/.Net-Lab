@@ -1,0 +1,2 @@
+D:\.Net\Lab5\lab5\Project\obj\Debug\Project.csprojAssemblyReference.cache
+D:\.Net\Lab5\lab5\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache

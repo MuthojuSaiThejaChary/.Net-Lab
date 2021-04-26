@@ -1,0 +1,10 @@
+D:\.Net\Lab3\Lab3Q1\Lab3Q1\obj\Debug\Lab3Q1.csprojAssemblyReference.cache
+D:\.Net\Lab3\Lab3Q1\Lab3Q1\obj\Debug\Lab3Q1.csproj.CoreCompileInputs.cache
+D:\.Net\Lab3\Lab3Q1\Lab3Q1\bin\Debug\Lab3Q1.exe.config
+D:\.Net\Lab3\Lab3Q1\Lab3Q1\bin\Debug\Lab3Q1.exe
+D:\.Net\Lab3\Lab3Q1\Lab3Q1\bin\Debug\Lab3Q1.pdb
+D:\.Net\Lab3\Lab3Q1\Lab3Q1\bin\Debug\Lab3Q1Library.dll
+D:\.Net\Lab3\Lab3Q1\Lab3Q1\bin\Debug\Lab3Q1Library.pdb
+D:\.Net\Lab3\Lab3Q1\Lab3Q1\obj\Debug\Lab3Q1.csproj.CopyComplete
+D:\.Net\Lab3\Lab3Q1\Lab3Q1\obj\Debug\Lab3Q1.exe
+D:\.Net\Lab3\Lab3Q1\Lab3Q1\obj\Debug\Lab3Q1.pdb

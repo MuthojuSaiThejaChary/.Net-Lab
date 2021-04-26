@@ -1,0 +1,5 @@
+D:\.Net\Lab7\Lab7Q3\Employee\bin\Debug\Employee.dll
+D:\.Net\Lab7\Lab7Q3\Employee\bin\Debug\Employee.pdb
+D:\.Net\Lab7\Lab7Q3\Employee\obj\Debug\Employee.csproj.CoreCompileInputs.cache
+D:\.Net\Lab7\Lab7Q3\Employee\obj\Debug\Employee.dll
+D:\.Net\Lab7\Lab7Q3\Employee\obj\Debug\Employee.pdb
